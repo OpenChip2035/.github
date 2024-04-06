@@ -1,5 +1,5 @@
 # 📒OpenChip2035
-Hi, there. This project targets on simple, open, free and accessible SOC chip design to everyone.
+Hi, there! This project targets on simple, open, free and accessible SOC chip design to everyone.
 
 # 🚀RoadMap
 
