@@ -3,7 +3,7 @@ Hi, there. This project targets on simple, open, free and accessible SOC chip de
 
 # 🚀RoadMap
 
-- - [ ] A UART transmitter peripheral based on the wishbone bus, used as a template for future RTL, naming style, etc.
+- - [ ] A UART transmitter peripheral based on the [wishbone](https://opencores.org/howto/wishbone) bus, used as a template for future RTL, naming style, etc.
 - - [ ] A hex bus to Wishbone bus module (hb2wbmaster), used to test wishbone peripherals.
 - - [ ] A uart to bus module, refer to this [link](https://github.com/freecores/uart2bus).
 - - [ ] A UART receiver based on wishbone bus.
